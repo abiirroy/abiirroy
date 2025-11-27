@@ -5,7 +5,7 @@
 I want to become one of the best in AI by **solving real-world problems** that make a difference. I believe impact matters more than certificate — and I prove that every day by **building, experimenting, and sharing.**
 
 ---
-
+ 
 ## 📢 What I’m Doing Right Now  
 
 - 🏫 Pursuing a degree in Data Science & Artificial Intelligence at **Indian Institute of Technology, Guwahati (IITG)**
